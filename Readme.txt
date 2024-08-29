@@ -160,4 +160,3 @@ For any inquiries or feedback, please contact:
 - **GitHub:** [Minhazul Mahmud](https://github.com/MinhaulMahmud)
 ```
 
-Feel free to adjust the placeholders like `your_script_name.py` and `your-repo-name` to match your actual file names and repository details.
